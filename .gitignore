@@ -1,0 +1,97 @@
+# Obsidian workspace files (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+
+# Obsidian cache and temporary files
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Plugin-specific files that shouldn't be tracked
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/node_modules/
+
+# Obsidian Git plugin files (if using obsidian-git)
+.obsidian/plugins/obsidian-git/data.json
+
+# Dataview plugin cache
+.obsidian/plugins/dataview/data.json
+
+# Style Settings plugin
+.obsidian/plugins/obsidian-style-settings/data.json
+
+# Advanced Canvas plugin
+.obsidian/plugins/advanced-canvas/data.json
+
+# Icon folder plugin
+.obsidian/plugins/obsidian-icon-folder/data.json
+
+# Templater plugin
+.obsidian/plugins/templater-obsidian/data.json
+
+# Outliner plugin
+.obsidian/plugins/obsidian-outliner/data.json
+
+# Trash folder
+.trash/
+
+# System files
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+\#*#
+
+# Node modules (if using any plugins with npm)
+node_modules/
+
+# Log files
+*.log
+logs/
+
+# Backup files
+*.backup
+*.bak
+*.swp
+*.swo
+
+# Editor temp files
+.vscode/
+.idea/
+
+# Archive files (unless intentionally tracked)
+*.zip
+*.tar.gz
+*.rar
+
+# Large media files (uncomment if you want to exclude them)
+# *.mp4
+# *.avi
+# *.mov
+# *.mkv
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
